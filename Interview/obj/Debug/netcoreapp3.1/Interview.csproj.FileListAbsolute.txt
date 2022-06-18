@@ -1,0 +1,12 @@
+/Users/prakashselvaraj/Projects/Interview/Interview/bin/Debug/netcoreapp3.1/Interview.deps.json
+/Users/prakashselvaraj/Projects/Interview/Interview/bin/Debug/netcoreapp3.1/Interview.runtimeconfig.json
+/Users/prakashselvaraj/Projects/Interview/Interview/bin/Debug/netcoreapp3.1/Interview.runtimeconfig.dev.json
+/Users/prakashselvaraj/Projects/Interview/Interview/bin/Debug/netcoreapp3.1/Interview.dll
+/Users/prakashselvaraj/Projects/Interview/Interview/bin/Debug/netcoreapp3.1/Interview.pdb
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.AssemblyInfoInputs.cache
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.AssemblyInfo.cs
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.csproj.CoreCompileInputs.cache
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.dll
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.pdb
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.genruntimeconfig.cache
+/Users/prakashselvaraj/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.csproj.AssemblyReference.cache
